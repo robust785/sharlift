@@ -1,0 +1,2 @@
+drawer() is defined inside the home_screen.dart file.
+After clicking drawer and clicking on the listTile() where it redirects is written in this folder.
