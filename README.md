@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## video link of App
 
-This project is a starting point for a Flutter application.
+https://drive.google.com/file/d/1UawC4r8BKze_4eC8e-dJSapzFAdl7c4C/view?usp=drive_link
 
-A few resources to get you started if this is your first Flutter project:
+APK LINK-> https://drive.google.com/file/d/1FXPJ677BvyIqq4EdKymQlP4etZLgxh8X/view?usp=drive_link
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
