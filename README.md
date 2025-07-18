@@ -1,6 +1,7 @@
 # sharlift
 
 A new Flutter project.
+ShareLift-Connecting College Student
 
 ## video link of App
 
